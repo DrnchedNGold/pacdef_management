@@ -1,4 +1,10 @@
 [arch]
-kitty
-zsh
-vivaldi
+paru        # (REQUIRED FOR PACDEF)
+kitty       # terminal emulator
+zsh         # zsh
+ranger      # terminal file manager
+
+vivaldi     # vivaldi browser
+chromium    # chromium browser
+
+code        # VSCode
